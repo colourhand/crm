@@ -1,4 +1,4 @@
-# crm
+# crm 基于 vuejs-cli +element-ui
 
 > vuejs  
 
@@ -7,6 +7,9 @@
 ``` bash
 # install dependencies
 npm install
+
+# install element node-module
+npm i element-ui -S
 
 # serve with hot reload at localhost:8080
 npm run dev
