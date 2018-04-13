@@ -1,4 +1,4 @@
-# crm 基于 vuejs-cli +element-ui
+# crm 基于 vuejs-cli +element-ui+webpack +mysql +egg.js
 
 > vuejs  
 
@@ -30,4 +30,9 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader) [element-ui](http://element-cn.eleme.io/#/zh-CN/component/installation).
+
+
+
+
+更多eleemnt-ui技术支持 请访问 
